@@ -5,7 +5,7 @@ An interactive visualization of Toronto's Covid Data 2020 using Bokeh server
 
 1. In a python 3 environment, install required packages
 
-```(py37) toronto_covid % pip install -r requirements.txt ```
+```(py37) root % pip install -r requirements.txt ```
 
 
 2. Navigate to vizcovid directory and run
